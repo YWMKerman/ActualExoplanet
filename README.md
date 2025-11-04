@@ -34,6 +34,8 @@ In addition to real-world stars, AEX includes several fictional systems created 
 While fictional, their planetary architectures, atmospheres, and physical parameters still follow realistic astrophysical principles.
 *Don’t like fictional systems?*
 *No problem — you can disable them entirely in the mod’s configuration settings.*
+*What if you don't like how these stars with exoplanets will evolve into the future?*
+*you can still turn off star evolution in the settings.*
 
 AEX is designed as a counterpart to RealExpand, but with a stronger emphasis on scientific consistency and future plausibility.
 It’s meant to complement the AfterSolarSystem mod, extending your journey beyond the far-future Sun into the wider cosmos.
