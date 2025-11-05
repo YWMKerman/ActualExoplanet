@@ -67,7 +67,6 @@ then manually descend to the surface.***
 ## **AfterSolarSystem is not compatible with the following mods：**
 
 - Principia
-- External visual mods (RVE, RSSVE, EVO, etc.)
 - External planet mods (RealExpand, AfterKerbin, BeyondHome, etc.)
 
 ***
@@ -139,6 +138,10 @@ Q: _**Why are some hot gas giants in AfterSolarSystemExpand blue or white?**_
 
 A: *According to Sudarsky’s gas giant classification, gas giants with equilibrium temperatures above 250 K are classified as Class II (Water Clouds), which appear white due to reflective water clouds.
 At even higher temperatures, they become Class III (Cloudless) — appearing blue because their atmospheres lack thick condensate clouds, allowing Rayleigh scattering to dominate.*
+
+## _**Your thoughts and suggestions**_
+
+What if you find that there is no star system you like in After-Exoplanet, but you want to have it? No problem, feel free to suggest it to me. I will consider adding it to the game based on its system size, distance from the solar system, and other special characteristics.  Additionally, if you find any discrepancies between the current Exoplanet data and the latest scientific data, you can raise them, and I will consider making scientific corrections.
 ***
 
 
