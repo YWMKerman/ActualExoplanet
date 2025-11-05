@@ -40,6 +40,16 @@ While fictional, their planetary architectures, atmospheres, and physical parame
 AEX is designed as a counterpart to RealExpand, but with a stronger emphasis on scientific consistency and future plausibility.
 It’s meant to complement the AfterSolarSystem mod, extending your journey beyond the far-future Sun into the wider cosmos.
 
+## **_Real Exoplanet star systems already included in After-ExoPlanet:_**
+- Alpha Centauri
+- Barnard's Star
+- Epsilon Eridani
+- Tau Cet
+- Teegarden's Star
+- Gliese 581
+- Trappist-1
+- K2-18
+
  ## _**Known Limitations**_
 Due to KSP’s floating origin and precision issues, you may encounter graphical artifacts such as:
 - “cracked” terrain
