@@ -120,31 +120,6 @@ and save it.
 # _Contact or learn more:_
 <img width="1920" height="871" alt="K2-18c" src="https://github.com/user-attachments/assets/b49bbe1a-ce4a-441f-96a8-9cc3bde260c5" />
 
-## _**Questions and Answers**_
-
-_**Q: Why is installing AfterExpand so cumbersome in the RealSolarSystem environment?**_
-
-A: Because the early development of RealSolarSystem was quite limited and poorly structured. In its initial versions, it strictly restricted the appearance of any celestial bodies that did not actually exist in our Solar System. In other words, only real, historically known Solar System objects were allowed, and all other planets or stars were automatically blocked.
-As a result, there are two possible ways to install AfterExpand under RealSolarSystem:
-
--	Direct replacement – simply copy and overwrite the existing files.
--	Manual configuration – manually edit the restricted configuration files to allow additional celestial bodies to appear.
-
-Q: _**Why does AfterSolarSystemExpand appear so large, yet the number of celestial bodies seems small?**_
-
-A: *Unlike traditional planet expansions, AfterSolarSystemExpand uses real-world scale celestial bodies rather than Kerbal Space Program’s scaled-down system.
-Because of this, each planet requires high-resolution textures (8K or higher) to maintain visual quality. This results in a much larger overall mod size, even though the number of celestial bodies may appear smaller.*
-
-Q: _**Why is AfterSolarSystemExpand incompatible with Principia?**_
-
-A: *Principia implements N-body physics, meaning it continuously simulates the gravitational interactions of all celestial bodies at once.
-In AfterSolarSystemExpand, this involves dozens of solar systems, causing extreme lag and long-term orbital instability. Over time, this can lead to planets or even entire systems being ejected or colliding.*
-
-Q: _**Why are some hot gas giants in AfterSolarSystemExpand blue or white?**_
-
-A: *According to Sudarsky’s gas giant classification, gas giants with equilibrium temperatures above 250 K are classified as Class II (Water Clouds), which appear white due to reflective water clouds.
-At even higher temperatures, they become Class III (Cloudless) — appearing blue because their atmospheres lack thick condensate clouds, allowing Rayleigh scattering to dominate.*
-
 ## _**Your thoughts and suggestions**_
 
 What if you find that there is no star system you like in After-Exoplanet, but you want to have it? No problem, feel free to suggest it to me. I will consider adding it to the game based on its system size, distance from the solar system, and other special characteristics.  Additionally, if you find any discrepancies between the current Exoplanet data and the latest scientific data, you can raise them, and I will consider making scientific corrections.
