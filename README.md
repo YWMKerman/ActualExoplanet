@@ -65,6 +65,7 @@ Almost four times the radius — exponentially more systems to explore.
 - Gliese 581
 - Trappist-1
 - 55 Cancri
+- 51 Pegasi 
 - K2-18
 - HD 10180
 
@@ -91,6 +92,7 @@ then manually descend to the surface.***
 - Distant Object Enhancement
 - PlanetShine
 - ParallaxContinued
+- Raymarched Volumetrics Early Access
 
 ## **AfterSolarSystem is not compatible with the following mods：**
 
