@@ -4,14 +4,14 @@
 
 <img width="2048" height="800" alt="AEX" src="https://github.com/user-attachments/assets/feaa00c9-1bac-4e12-b379-20f2de87b978" />
 
-# _After-Expand (AEX) — Exoplanet Expansion Pack_
+# _Actual-Expand (AEX) — Exoplanet Expansion Pack_
 
 _“来了，爱了，给Ta一颗星星，走了”_
 _<p align="right">- 《三体 III 死神永生》 </p>_
 
 ***
 
-After-Expand, also known as After-ExoPlanet (AEX), is an exoplanet expansion pack designed for the stock game, RealSolarSystem (RSS), or my AfterSolarSystem mod.
+Actual-Expand, also known as After-ExoPlanet (AEX), is an exoplanet expansion pack designed for the stock game, RealSolarSystem (RSS), or my AfterSolarSystem mod.
 You may consider it the spiritual successor to RealExoPlanet (REX) or RealExpand.
 AEX includes everything from REX and adds more than 10 additional exoplanetary systems, all updated using the latest available scientific data.
 Although the name contains the word “After”, which might make you think it represents a future era, this is actually one of the mod’s defining features —
