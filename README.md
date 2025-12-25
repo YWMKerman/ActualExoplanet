@@ -65,7 +65,8 @@ Almost four times the radius — exponentially more systems to explore.
 - Gliese 581
 - Trappist-1
 - 55 Cancri
-- 51 Pegasi 
+- 51 Pegasi
+- Kepler-444
 - K2-18
 - HD 10180
 
